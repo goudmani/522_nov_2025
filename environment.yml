@@ -1,0 +1,8 @@
+name: '522'
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pandas
+  - python=3
+prefix: /Users/manikanthgoudgurujala/miniforge3/envs/522
